@@ -1,0 +1,124 @@
+body {
+    padding-bottom: 0px;
+    background-color: #fff;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    /*color: #fff;*/
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+    /*color: #fff;*/
+}
+.form-signin .checkbox {
+    font-weight: normal;
+
+}
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+
+}
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+
+}
+.form-signin input[type="password"] {
+    margin-bottom: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+
+}
+.form-signin input[type="text"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+
+}
+
+/*!*轮播图样式*!*/
+/*#lunbobox {*/
+/*    width:500px;*/
+/*    height:300px;*/
+/*    position:relative;*/
+/*}*/
+/*.lunbo {*/
+/*    width:500px;*/
+/*    height:300px;*/
+/*}*/
+/*.lunbo img {*/
+/*    width:500px;*/
+/*    height:300px;*/
+/*    position:absolute;*/
+/*    top:0px;*/
+/*    left:0px;*/
+/*}*/
+/*#lunbobox ul {*/
+/*    width:285px;*/
+/*    position:absolute;*/
+/*    bottom:10px;*/
+/*    right:0px;*/
+/*    z-index:5;*/
+/*}*/
+/*#lunbobox ul li {*/
+/*    cursor:pointer;*/
+/*    width:10px;*/
+/*    height:4px;*/
+/*    border:1px solid #cccccc;*/
+/*    float:left;*/
+/*    list-style:none;*/
+/*    background:#cccccc;*/
+/*    text-align:center;*/
+/*    margin:0px 5px 0px 0px;*/
+/*}*/
+/*#toleft {*/
+/*    display:none;*/
+/*    width:30px;*/
+/*    height:100px;*/
+/*    font-size:40px;*/
+/*    line-height:100px;*/
+/*    text-align:center;*/
+/*    color:#f4f4f4;*/
+/*    !*background:#cccccc;*/
+/*    *!*/
+/*    !*background:url("../images/toleft.jpg")no-repeat center;*/
+/*    *!*/
+/*    position:absolute;*/
+/*    top:90px;*/
+/*    left:12px;*/
+/*    cursor:pointer;*/
+/*    z-index:99;*/
+/*    opacity:0.4;*/
+/*}*/
+/*#toright {*/
+/*    display:none;*/
+/*    width:30px;*/
+/*    height:100px;*/
+/*    font-size:40px;*/
+/*    line-height:100px;*/
+/*    text-align:center;*/
+/*    color:#f4f4f4;*/
+/*    !*background:#cccccc;*/
+/*    *!*/
+/*    position:absolute;*/
+/*    top:90px;*/
+/*    right:0px;*/
+/*    cursor:pointer;*/
+/*    z-index:99;*/
+/*    opacity:0.4;*/
+/*}*/
